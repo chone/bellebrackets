@@ -1,0 +1,27 @@
+{
+    "name"                  : "Brackets",
+    "version"               : "0.17.0-4728",
+    "homepage"              : "http://brackets.io",
+    "issues"                :
+    {
+        "url"               : "http://github.com/adobe/brackets/issues"
+    },
+    "repository"            :
+    {
+        "type"              : "git",
+        "url"               : "https://github.com/adobe/brackets.git",
+        "branch"            : "master",
+        "SHA"               : "38c939ff2018eed38b61f701c2db9adee735a2d8"
+    },
+    "config"                :
+    {
+        "app_title"         : "Brackets",
+        "app_name_about"    : "Brackets",
+        "about_icon"        : "styles/images/brackets_icon.svg",
+        "show_debug_menu"   : true,
+        "enable_jslint"     : true,
+        "forum_url"         : "https://groups.google.com/forum/?fromgroups#!forum/brackets-dev",
+        "update_info_url"   : "http://dev.brackets.io/updates/stable/",
+        "troubleshoot_url"  : "https://github.com/adobe/brackets/wiki/Troubleshooting#wiki-livedev"
+    }
+}
